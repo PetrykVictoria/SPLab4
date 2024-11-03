@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPLab4", "SPLab4\SPLab4.vcxproj", "{27B934CA-D19D-4EAE-BD6E-659146D8F9FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5F495A5D-D9B7-4AA0-99D2-DADE4A2C404A}"
+	ProjectSection(SolutionItems) = preProject
+		automaton.txt = automaton.txt
+		automaton2.txt = automaton2.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27B934CA-D19D-4EAE-BD6E-659146D8F9FE}.Debug|x64.ActiveCfg = Debug|x64
+		{27B934CA-D19D-4EAE-BD6E-659146D8F9FE}.Debug|x64.Build.0 = Debug|x64
+		{27B934CA-D19D-4EAE-BD6E-659146D8F9FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{27B934CA-D19D-4EAE-BD6E-659146D8F9FE}.Debug|x86.Build.0 = Debug|Win32
+		{27B934CA-D19D-4EAE-BD6E-659146D8F9FE}.Release|x64.ActiveCfg = Release|x64
+		{27B934CA-D19D-4EAE-BD6E-659146D8F9FE}.Release|x64.Build.0 = Release|x64
+		{27B934CA-D19D-4EAE-BD6E-659146D8F9FE}.Release|x86.ActiveCfg = Release|Win32
+		{27B934CA-D19D-4EAE-BD6E-659146D8F9FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCB9460E-BB71-4FCD-A6B6-B82BB720E54E}
+	EndGlobalSection
+EndGlobal
